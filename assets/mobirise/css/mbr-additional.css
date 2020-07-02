@@ -1356,6 +1356,9 @@ section.lazy-placeholder:after {
 .cid-s3kynxQBFV .mbr-overlay ~ .container-slide {
   z-index: auto;
 }
+.cid-s3kynxQBFV H2 {
+  color: #ffffff;
+}
 .cid-s3ksC0FxMC {
   padding-top: 90px;
   padding-bottom: 90px;
@@ -1421,6 +1424,9 @@ section.lazy-placeholder:after {
 }
 .cid-s3ksC0FxMC .card-img:hover .mbr-overlay {
   opacity: .5;
+}
+.cid-s3ksC0FxMC .card-title P {
+  text-align: left;
 }
 .cid-s3kt0cVPrB {
   padding-top: 135px;
